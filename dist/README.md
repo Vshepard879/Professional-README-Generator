@@ -1,10 +1,10 @@
-# Professional Readme Generator
+# Readme Generator
 [![Issues](https://img.shields.io/github/issues/Vshepard879/Professional-README-Generator)](https://github.com/Vshepard879/Professional-README-Generator/issues) [![Issues](https://img.shields.io/github/contributors/Vshepard879/Professional-README-Generator)](https://github.com/Vshepard879/Professional-README-Generator/graphs/contributors) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder.
+A Node.js application that will help you generate a professional README file.
           
-View the deployed page at [Professional Readme Generator](https://github.com/Vshepard879/Professional-README-Generator).
+View the deployed page at [Readme Generator](https://github.com/vshepard879/Professional-README-Generator).
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -23,11 +23,11 @@ npm inquirer
 ```
   
 ## Usage
-After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder. 
+After cloning the repo and installing inquirer, uise the command line to navigate and type node index, following prompts 
   
 ### Screenshots
-![screenshot of Readme](./dist/images)
-screenshot of Readme
+![screen shot of application](./dist/images/screenshot.png)
+screenshot of application
 
 ## Built With
 
@@ -40,12 +40,12 @@ screenshot of Readme
 This application is licensed under the MIT license.
   
 ## Contributing
-No guidelines
+No guidelines for contributing
   
 ## Tests
 To run tests on the application, install
 ```
-no test information
+no test currently
 ```
 and run `npm run test` from the command line.
   
