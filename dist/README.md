@@ -1,11 +1,10 @@
-# README Generator
-
-
+# Professional Readme Generator
+[![Issues](https://img.shields.io/github/issues/Vshepard879/Professional-README-Generator)](https://github.com/Vshepard879/Professional-README-Generator/issues) [![Issues](https://img.shields.io/github/contributors/Vshepard879/Professional-README-Generator)](https://github.com/Vshepard879/Professional-README-Generator/graphs/contributors) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-A Node.js application that will help you generate a professional README.
-            
-View the deployed page at [README Generator](https://github.com/valiantcreative33).
+After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder.
+          
+View the deployed page at [Professional Readme Generator](https://github.com/Vshepard879/Professional-README-Generator).
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,6 +12,7 @@ View the deployed page at [README Generator](https://github.com/valiantcreative3
 * [Built With](#built-with)
 * [License](#license)
 * [Contributing](#contributing)
+* [Tests](#tests)
 * [Questions](#questions)
 * [Credits](#credits)
 
@@ -21,31 +21,38 @@ To use this application, please install:
 ```
 npm inquirer
 ```
-    
+  
 ## Usage
-To use this applicaiton please install: npm inquirer 
-    
+After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder. 
+  
 ### Screenshots
-![Here is a screenshot image of the application.](./dist/images/screenshot.png)
-A screenshot image of the application.
+![screenshot of Readme](./dist/images)
+screenshot of Readme
 
 ## Built With
 
 * HTML
 * CSS
-* SASS
 * JavaScript
 * Node.js
-* Express.js
-    
+  
 ## License
 This application is licensed under the MIT license.
-    
+  
 ## Contributing
-There are no guidelines for contributing at this moment.
-    
+No guidelines
+  
+## Tests
+To run tests on the application, install
+```
+no test information
+```
+and run `npm run test` from the command line.
+  
 ## Questions
-If you have any questions about the repo, please [open an issue](https://github.com/valiantcreative33/readme-generator/issues) or contact me via email at ruben@valiantcreative.net. You can find more of my work on my GitHub, [valiantcreative33](https://github.com/valiantcreative33/).
-    
+If you have any questions about the repo, please [open an issue](https://github.com/Vshepard879/Professional-README-Generator/issues) or contact me via email at test@gmail.com. You can find more of my work on my GitHub, [Vshepard879](https://github.com/Vshepard879/).
+  
 ## Credits
-* [UCF Coding Boot Camp Starter Code](https://github.com/coding-boot-camp/potential-enigma)
+* [UCF Coding Bootcamp](https://github.com/coding-boot-camp/potential-enigma)
+
+  
